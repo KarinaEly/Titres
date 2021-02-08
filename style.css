@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'kitahara_scriptregular';
+    src: url('fonts/kitaharascript-webfont.woff2') format('woff2'),
+         url('fonts/kitaharascript-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'kitahara_scriptregular';
+    src: url('fonts/kitaharascript-webfont.woff2') format('woff2'),
+         url('fonts/kitaharascript-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1
+{
+    color: #EE82EE!important;
+    font-family: 'kitahara_scriptregular';
+}
+
+h2
+{
+    color: 	rgb(0,255,255);
+    font-family: 'Lobster';
+}
+
+h3
+{
+    color: 	#FA8072;
+    font-family: 'Lobster';
+}
+
+
+
+
+    
