@@ -34,7 +34,30 @@ h3
     font-family: 'Lobster';
 }
 
+.fruits
+{
+    color: rgb(153, 0, 255);
+}
+    
 
 
+#Courgettes
+{
+    color:  rgb(255, 153, 0);
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.légumes
+{
+    color: rgb(56, 118, 29);
+}
+
+#poires
+{
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    text-decoration: underline;
+}
 
     
