@@ -1,6 +1,10 @@
 # Les flexbox
 
-Faire ce cours là : https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/3298561-faites-votre-mise-en-page-avec-flexbox
+Lire ce cours là : https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/1606168-decouvrez-le-modele-des-boites
+
+=> Tu pourras t'y référer plus tard
+
+Ensuite faire ce cours là : https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/3298561-faites-votre-mise-en-page-avec-flexbox
 
 <br />
 Faire tous les cours sur les flexbox et ensuite faire ce jeu : http://flexboxfroggy.com/#fr
@@ -19,4 +23,4 @@ A toi de voir comment faire pour tout le reste
 
 # Résultat attendu 
 
-<img src="titres.png" alt="titre">
+<img src="titres.png" alt="titre" title="résultat attendu">
