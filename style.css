@@ -16,6 +16,10 @@
 
 }
 
+/* * {
+    border: 1px grey solid; 
+}*/
+
 h1
 {
     color: #EE82EE!important;
@@ -60,3 +64,15 @@ h3
     text-decoration: underline;
 }
 
+.conteneur{
+    display: flex;
+}
+
+.paragraphe{
+    border: black solid;
+    padding: 10px 10px 10px 10px;
+}
+
+#margin{
+    margin-left: 10px;
+}
